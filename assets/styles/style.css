@@ -123,11 +123,11 @@ a{
       
     }
     .card{
-        width: 96px;
-        height: 96px;}
+        width: 76px;
+        height: 76px;}
     .icon
 {
-    width: 80px;
+    width: 68px;
 }
 .card_front,.card_back{
 border-radius:10px;
